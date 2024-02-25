@@ -1,7 +1,7 @@
 # Fourthwall Custom Cursor HTML
 
 Add a custom cursor to your Fourthwall store by using the following tutorial. 
-[My GitHub Page Example](https://athenarebeldev.github.io/Fourthwall-Custom-Cursor-HTML/)
+[My GitHub Page Example](https://athenarebeldev.github.io/Fourthwall-Custom-Cursor-HTML-Tutorial/)
 
 ## Getting your project onto the web
 - You will need to have a [Fourthwall](https://link.fourthwall.com/snooperstore) & [GitHub](https://github.com/join) account for this tutorial.
